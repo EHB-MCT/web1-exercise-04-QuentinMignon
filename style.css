@@ -1,1 +1,43 @@
-/* nothing here */
+body{
+    background-color: #011321;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+h3{
+    color: red;
+    font-family: 'Chivo', sans-serif;;
+}
+h1{ 
+    font-size: 100px;
+    font-family: 'Overpass', sans-serif;
+    color: white;
+}
+h2~p{color: #a1b0b3;}
+h2{ 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 100px;
+    font-family: 'Overpass', sans-serif;
+    color: white;
+}
+h4{
+    color: white;
+    background-color: red;
+    padding: 20px;
+    line-height: 20px;
+    font-size: 20px;
+    margin-right: 1830px;
+    border-radius: 50px;
+}
+
+p{ 
+line-height: 2px;
+font-size: 20px;
+
+}
+
+h3{ 
+padding-bottom: 50px;
+padding-top: 50px;
+font-family: 'Overpass', sans-serif;
+}
